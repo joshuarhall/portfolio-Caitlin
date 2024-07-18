@@ -9,9 +9,8 @@ const Footer = (props) => {
       <Container>
         {props.children}
         <i className="fas fa-code" /> with <i className="fas fa-heart" /> by{" "}
-          <span className="badge bg-dark">Caitlin Hall</span>
-        </a>{" "}
-        using <i className="fab fa-react" />
+        <span className="badge bg-dark">Caitlin Hall</span> using{" "}
+        <i className="fab fa-react" />
         <p>
           <small className="text-muted">
             Project code is open source. Feel free to fork and make your own
