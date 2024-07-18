@@ -9,19 +9,13 @@ const Footer = (props) => {
       <Container>
         {props.children}
         <i className="fas fa-code" /> with <i className="fas fa-heart" /> by{" "}
-        <a
-          rel="noopener"
-          href="https://github.com/hashirshoaeb"
-          aria-label="My GitHub"
-        > <span className="badge bg-dark">
-            Hashir Shoaib
-          </span>
+          <span className="badge bg-dark">Caitlin Hall</span>
         </a>{" "}
         using <i className="fab fa-react" />
         <p>
           <small className="text-muted">
             Project code is open source. Feel free to fork and make your own
-            version.
+            version. Credit to Hashir Shoaeb for website template.
           </small>
         </p>
       </Container>

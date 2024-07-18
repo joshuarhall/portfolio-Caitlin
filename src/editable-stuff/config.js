@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/Caitlin-headshot.jpg"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Caitlin Hall. I am an outcome-focused L&D professional who meets people where they are and uses training to get them where they need to be. My strengths include ILT/vILT development, Stakeholder Management. SME communication. Outcome focused learning objectives. Soft skills and soft skills training. and DEI advocacy",
   resume: "https://bit.ly/3BlS71b",
 };
 
